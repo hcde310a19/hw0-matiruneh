@@ -1,3 +1,31 @@
 # Description of your program (part 7)
+#
+# There are many ways to get a word count for your document. To do that, you'll first need to select the text that you
+# want the word count for.(If you would like to know the word count for the entire document and not just a portion of
+# it, you can skip to the last paragraph.) There are three ways to do this:
+#
+# FIRST WAY: If you are using a laptop with a touchpad, using the touchpad, move your
+# cursor to the front of the first letter of the first word in your block of text. Next, using your left index finger
+# press down on the bottom left corner of your touchpad to select. Then, using your right index finger, move the cursor
+# towards the end of the block of text. This will be all the way to the last letter or punctuation in the last line.
+#
+# SECOND WAY: If you are using a mouse, move the cursor shown on the screen to the beginning of the block of text using
+# that mouse. Once you have your cursor there, while clicking the left button on the mouse, move the cursor to the end
+# of the block of text.
+#
+# THIRD WAY: Using the arrows on the keyboard of your computer, move the cursor to the start of the block of text. Once
+# the cursor is there, press the Ctrl button with your left hand, and press the down arrow with your right hand.
+# Continue to press the down arrow until you have the entire block of text highlighted.
+#
+# After you have selected your block of text, click on the "Review" tab shown at the top. In the proofing category
+# (the first category under Review on the far left), you will see the last option that says "Word Count". Click on that
+# option and you will see a popup with many different lines. The second line will give you the number of words in the
+# selected block of text.
+
 
 # Reflection on writing your program (part 8)
+#
+# The previous exercise was not too hard. It's very easy to write out the description assuming that the person reading
+# it will have the same context that I do, which may not be the case. I had to be conscious about not making that
+# assumption while writing out the description. I liked writing the description in English because it makes the most
+# sense to me. There was nothing unsatisfying about writing out the description in English.
